@@ -1,0 +1,15 @@
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\bin\Debug\net6.0\Calculate Reward Points.exe
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\bin\Debug\net6.0\Calculate Reward Points.deps.json
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\bin\Debug\net6.0\Calculate Reward Points.runtimeconfig.json
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\bin\Debug\net6.0\Calculate Reward Points.dll
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\bin\Debug\net6.0\Calculate Reward Points.pdb
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\Calculate Reward Points.csproj.AssemblyReference.cache
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\Calculate Reward Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\Calculate Reward Points.AssemblyInfoInputs.cache
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\Calculate Reward Points.AssemblyInfo.cs
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\Calculate Reward Points.csproj.CoreCompileInputs.cache
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\Calculate Reward Points.dll
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\refint\Calculate Reward Points.dll
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\Calculate Reward Points.pdb
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\Calculate Reward Points.genruntimeconfig.cache
+C:\Users\loshithan\source\repos\Calculate Reward Points\Calculate Reward Points\obj\Debug\net6.0\ref\Calculate Reward Points.dll
